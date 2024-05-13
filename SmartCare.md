@@ -43,7 +43,6 @@ The elderly and disabled often encounter barriers to accessing quality healthcar
 
 1. **Planning and Analysis**:
    - Define project scope, goals, and deliverables.
-   - Conduct stakeholder interviews to gather requirements and feedback.
 
 2. **Design and Development**:
    - Design the user interface, backend architecture, and AI algorithms.
